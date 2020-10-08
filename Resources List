@@ -2,9 +2,38 @@
         https://malwareunicorn.org/workshops/re101.html#0  //Malware reverse engineering 101 (tutorial)
         https://www.malware-traffic-analysis.net    //Source for pcap and malware samples + blog
   
-###Malicious PDF Analysis
+        
+###OLE files, "Maldocs", Office Macros and PDF Analysis
+        https://newtonpaul.com/static-malware-analysis-with-ole-tools-and-cyber-chef/
+        https://www.decalage.info/python/oletools
+        https://digital-forensics.sans.org/media/analyzing-malicious-document-files.pdf
         https://blog.didierstevens.com/programs/pdf-tools/
+        https://www.youtube.com/watch?v=opdVFQEBCNU     //Didier Stevens talk (2 hour+)
+        https://www.trustedsec.com/blog/malicious-macros-for-script-kiddies/
 
+###Javascript
+        https://www.youtube.com/watch?v=FTeE3OrTNoA   //Hacker101 - JavaScript for Hackers
+        
+###VBA and VBS
+        https://vbatipsntricks.wordpress.com/2015/08/21/hello-world/      //Get system info using enviroment variables
+        http://codevba.com/office/environ.htm#.X38jfud7nRY              //Get system info using enviroment variables
+        https://www.robvanderwoude.com/vbstech_data_environment.php     //Get system info using enviroment variables usin WSH and WMI's Win32 Environment class
+        http://www.cheat-sheets.org/saved-copy/vbasic_quickref.pdf      //Visual Basic Cheat sheet
+        
+        
 ###Assembly
         https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf
         https://gist.github.com/navneetmuffin/ff678b1fda17e6188aa0462a99626121
+        https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+        http://savannah.c3sl.ufpr.br/pgubook/ProgrammingGroundUp-1-0-booksize.pdf
+        https://en.wikibooks.org/wiki/X86_Assembly
+        https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
+        
+        ####Buffer overflow 
+                https://www.hackers-arise.com/post/2017/05/26/exploit-development-part-1-anatomy-of-buffer-overflows
+                https://www.coalfire.com/the-coalfire-blog/january-2020/the-basics-of-exploit-development-1
+                
+###Automated Analysis and Sandboxes
+        https://www.virustotal.com/gui/
+        https://www.hybrid-analysis.com/
+        https://any.run/
