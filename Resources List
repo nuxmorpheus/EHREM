@@ -35,6 +35,10 @@
                 https://www.hackers-arise.com/post/2017/05/26/exploit-development-part-1-anatomy-of-buffer-overflows
                 https://www.coalfire.com/the-coalfire-blog/january-2020/the-basics-of-exploit-development-1
                 
+
+###CheatSheets
+        https://malwareunicorn.org/workshops/idacheatsheet.html         //Ida cheatsheet
+                
 ###Automated Analysis and Sandboxes
         https://www.virustotal.com/gui/
         https://www.hybrid-analysis.com/
